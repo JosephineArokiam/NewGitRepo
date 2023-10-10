@@ -13,7 +13,7 @@ public class Assignment2 {
 		int assignment2 = objao1.Arithmatic(10, 2, 2, 2, 2, 2);
 		System.out.println("Display from Main Method assignment2 " +assignment2);
 		System.out.println("Direct calcultion in Print "+((((((10+2)+2)-2)*2)/2)));
-		System.out.println("Checkgithub");
+		//System.out.println("Checkgithub");
 		
 
 	}
