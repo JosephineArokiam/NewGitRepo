@@ -33,8 +33,7 @@ public class TestClass {
 		int mul_result =tc.mul(sub_result, 2);
 		int dev_result=tc.dev(mul_result, 2);
 		System.out.printf("The final answer is " + dev_result);
-			
-
+		
 	}
 
 }

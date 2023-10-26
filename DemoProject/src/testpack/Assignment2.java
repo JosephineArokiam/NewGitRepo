@@ -14,8 +14,8 @@ public class Assignment2 {
 		System.out.println("Display from Main Method assignment2 " +assignment2);
 		System.out.println("Direct calcultion in Print "+((((((10+2)+2)-2)*2)/2)));
 		//System.out.println("Checkgithub");
-		
-
+		TestClass tc = new TestClass(); //has a relationship
+		int sum_result1= tc.sum(10 ,2);
 	}
 
 }
